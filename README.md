@@ -36,7 +36,7 @@ The **Crop Care App** is a mobile application designed to assist farmers in mode
 ---
 
 ## 🛠️ Architecture  
-*(Insert a diagram showcasing the architecture of your app. This can include components like disease detection module, planner module, weather API integration, etc.)*  
+ ![arch](https://github.com/user-attachments/assets/2c6bb872-e7fd-42bd-8f2b-3908b68003ad)
 
 ---
 
