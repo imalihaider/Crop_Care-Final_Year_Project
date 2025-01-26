@@ -1,7 +1,7 @@
 # 🌾 Crop Care App  
 **Final Year Project (2019-2023)**  
 **Department of Computer Science**  
-**COMSATS University Islamabad, Attock Campus**
+**COMSATS University Islamabad**
 
 ---
 
@@ -27,16 +27,40 @@ The **Crop Care App** is a mobile application designed to assist farmers in mode
 
 ---
 
+## 🛠️ Technologies Used  
+- **Programming Language**: Dart (Flutter Framework)  
+- **Machine Learning**: TensorFlow / OpenCV  
+- **Cloud Services**: Firebase  
+- **APIs**: Weather API  
+- **Database**: SQLite / Firebase Firestore  
+
+---
+
+## 🚀 How to Run the Project  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/imalihaider/Crop_Care-Final_Year_Project.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd Crop_Care-Final_Year_Project
+   ```
+3. Install dependencies:  
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:  
+   ```bash
+   flutter run
+   ```
+
+---
+
 ## 🔍 System Background  
 **Challenges with existing systems:**  
 - Slow and time-consuming.  
 - Manual disease detection requires prior knowledge and experience.  
 - High chances of errors in predicting diseases.  
-
----
-
-## 🛠️ Architecture  
- ![arch](https://github.com/user-attachments/assets/2c6bb872-e7fd-42bd-8f2b-3908b68003ad)
 
 ---
 
@@ -50,15 +74,21 @@ The **Crop Care App** is a mobile application designed to assist farmers in mode
 
 ---
 
+## 🛠️ Architecture  
+![arch](https://github.com/user-attachments/assets/98e22ef1-fbf8-4788-b43b-d2c3e12f8e80)
+
+
+---
+
 ## 📸 Results  
 *(Insert screenshots of the app, such as the main dashboard, disease detection interface, weather feature, and daily planner.)*  
 
 ---
 
 ## 🤝 Group Members  
-- **Ali Haider**
-- **Iqra Rehman**  
-- **Supervisor**: Dr. Muhammad Najam Dar, Dr. Shehzad Faisal,
+- **Ali Haider**: [fa19-bse-002@cuiatk.edu.pk](mailto:fa19-bse-002@cuiatk.edu.pk)  
+- **Iqra Rehman**: [fa19-bse-004@cuiatk.edu.pk](mailto:fa19-bse-004@cuiatk.edu.pk)  
+- **Supervisor**: Dr. Shehzad Faisal  
 
 ---
 
@@ -73,18 +103,12 @@ The **Crop Care App** provides an innovative and user-friendly solution for farm
 ---
 
 ## 🔮 Future Directions  
-- Develop a **desktop version** for monitoring plants using cameras or drones.  
-- Launch a **web version** of the app for increased accessibility.  
+- Develop a **desktop version** for monitoring plants using cameras or drones.   
 
 ---
 
-## ✨ Screenshots  
-*(Add visual representations of your app here to make the repository more appealing. You can use markdown syntax for images like this:)*  
-```markdown
-![App Screenshot 1](path/to/screenshot1.png)  
-![App Screenshot 2](path/to/screenshot2.png)
+## 📄 License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 ---
-
-Let me know if you’d like help adding diagrams, screenshots, or additional formatting suggestions for the repository! 😊
