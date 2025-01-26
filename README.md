@@ -56,9 +56,9 @@ The **Crop Care App** is a mobile application designed to assist farmers in mode
 ---
 
 ## 🤝 Group Members  
-- **Ali Haider**: [fa19-bse-002@cuiatk.edu.pk](mailto:fa19-bse-002@cuiatk.edu.pk)  
-- **Iqra Rehman**: [fa19-bse-004@cuiatk.edu.pk](mailto:fa19-bse-004@cuiatk.edu.pk)  
-- **Supervisor**: Dr. Shehzad Faisal  
+- **Ali Haider**
+- **Iqra Rehman**  
+- **Supervisor**: Dr. Muhammad Najam Dar, Dr. Shehzad Faisal,
 
 ---
 
